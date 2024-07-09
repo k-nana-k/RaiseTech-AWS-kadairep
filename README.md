@@ -1,6 +1,5 @@
 # RaiseTech-AWS-kadairep
-This repository is for assignments at RaiseTech .
-
+This repository is for RaiseTech assignments
 
 ## 課題02
 
